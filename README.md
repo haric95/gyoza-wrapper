@@ -7,7 +7,7 @@ This package is used to wrap a provided string in the gyoza emoji.
 ```javascript
 const wrap = require('gyoza-wrapper');
 
-const filling = const filling = '🥬🍄';
+const filling = '🥬🍄';
 const gyoza = wrap(filling);
 console.log(gyoza) // 🥟🥬🍄🥟;
 ```
