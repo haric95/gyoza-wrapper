@@ -1,0 +1,19 @@
+{
+  "name": "gyoza-wrapper",
+  "version": "1.0.0",
+  "description": "Wraps a provided string with the gyoza emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gyoza",
+    "food",
+    "umami",
+    "dumpling",
+    "yaki",
+    "tasty"
+  ],
+  "author": "Hari Chauhan",
+  "license": "ISC"
+}
